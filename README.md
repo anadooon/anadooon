@@ -6,9 +6,7 @@ I am currently studying Web Application Development (DAW) and hold a degree as a
 ### 🛠️ Technologies & Tools
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,php,js,python,windows,linux" alt="My Skills" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,html,css,php,js,python,windows,linux" alt="My Skills" />
 </p>
 
 ### 📊 GitHub Stats
