@@ -16,20 +16,20 @@
 
 **Development**
 <p align="left">
-  <img src="./icons/java.svg" alt="Java" />
-  <img src="./icons/php.svg" alt="PHP" />
-  <img src="./icons/python.svg" alt="Python" />
-  <img src="./icons/js.svg" alt="JavaScript" />
-  <img src="./icons/html.svg" alt="HTML5" />
-  <img src="./icons/css.svg" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" />
 </p>
 
 **Systems & Environments**
 <p align="left">
-  <img src="./icons/linux.svg" alt="Linux" />
-  <img src="./icons/windows.svg" alt="Windows" />
-  <img src="./icons/git.svg" alt="Git" />
-  <img src="./icons/bash.svg" alt="Bash" />
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=windows" title="Windows" alt="Windows" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash/Terminal" alt="Bash" />
 </p>
 
 ### Metrics
