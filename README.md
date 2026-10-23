@@ -2,9 +2,15 @@
   <h1>Daniel Anadón</h1>
   <h3>Web Development Student & IT Systems Technician</h3>
   
-  [![Email](https://skillicons.dev/icons?i=gmail)](mailto:anadooon@duck.com)
-  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniel-anad%C3%B3n-gamarra-537a2b39b)
-
+  <p>
+    <a href="mailto:anadooon@duck.com">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/daniel-anad%C3%B3n-gamarra-537a2b39b" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    </a>
+  </p>
+  <p>📫 <code>anadooon@duck.com</code></p>
 </div>
 
 ### About Me
