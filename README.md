@@ -23,7 +23,7 @@
 ### Toolkit
 ---
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,python,js,html,css,linux,windows,git,bash" alt="Toolkit" />
+  <img src="https://skillicons.dev/icons?i=java,php,python,js,html,css,linux,windows,git,bash,vim" alt="Toolkit" /> <!--&perline=6-->
 </p>
 
 ### GitHub Activity
